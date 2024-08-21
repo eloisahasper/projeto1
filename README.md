@@ -1,6 +1,6 @@
 *Arraste para baixo para versão em português.*
 
-*English*
+*English version*
 # 1st Practical Project - Data
 ## Relational Database Modeling
 
@@ -11,13 +11,13 @@ Model a relational database that represents the Boticário business. The project
 By the end, you should have learned to identify entities, relationships, and attributes, as well as create the logical and physical modeling of the database.
 
 ## Steps
-**a. Requirements Analysis:** Understand the application requirements and identify the necessary entities, relationships, and attributes.
-**b. Logical Modeling:** Create an ER (Entity-Relationship) diagram that represents the logical structure of the database.
-**c. Normalization:** Apply normalization techniques to efficiently organize the data.
-**d. Physical Modeling:** Design the physical database with performance considerations, such as indexes and primary keys.
-**e. Documentation:** Document the logical and physical modeling of the database.
+**a. Requirements Analysis:** Understand the application requirements and identify the necessary entities, relationships, and attributes.  
+**b. Logical Modeling:** Create an ER (Entity-Relationship) diagram that represents the logical structure of the database.  
+**c. Normalization:** Apply normalization techniques to efficiently organize the data.  
+**d. Physical Modeling:** Design the physical database with performance considerations, such as indexes and primary keys.  
+**e. Documentation:** Document the logical and physical modeling of the database.  
 
-*Português*
+*Versão em Português*
 # 1º Projeto Prático - Dados
 ## Modelagem de Banco de Dados Relacional
 
