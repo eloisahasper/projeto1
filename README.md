@@ -1,5 +1,5 @@
-# 1º Projeto Prático - Dados#
-##Modelagem de Banco de Dados Relacional
+# 1º Projeto Prático - Dados
+## Modelagem de Banco de Dados Relacional
 
 Este projeto foi desenvolvido na formação da Trilha Dados do [Programa Desenvolve do Grupo Boticário](https://desenvolve.grupoboticario.com.br/) em 2024.
 
